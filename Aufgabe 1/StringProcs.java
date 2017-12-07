@@ -1,4 +1,3 @@
-package homework;
 
 public class StringProcs {
 	public static String extension(String f) {
